@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [The role of AI in breaking bad habits](chapter-1-1.md)
   - [How AI can enhance addiction recovery and promote positive behaviors](chapter-1-2.md)
-  - [What you can expect from this book](chapter-1-3.md)
 - [Chapter 1: Understanding AI and Its Applications in Breaking Bad Habits](chapter-2.md)
   - [What is AI and how does it work?](chapter-2-1.md)
   - [Common applications of AI in addiction recovery and behavior modification](chapter-2-2.md)

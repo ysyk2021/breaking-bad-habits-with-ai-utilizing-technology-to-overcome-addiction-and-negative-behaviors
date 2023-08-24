@@ -1,5 +1,3 @@
-Chapter 3: Enhancing Self-Awareness and Mindfulness with AI
-===========================================================
 
 Self-awareness and mindfulness are essential for overcoming addiction and negative behaviors. Artificial intelligence (AI) can support self-awareness and mindfulness by providing personalized insights and guidance. In this chapter, we will explore how AI-powered tools can enhance self-awareness and mindfulness.
 

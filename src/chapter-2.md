@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI and Its Applications in Breaking Bad Habits
-=======================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize addiction recovery and behavior modification. In this chapter, we will explore what AI is, how it works, and its common applications in breaking bad habits.
 

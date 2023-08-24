@@ -1,5 +1,3 @@
-AI-Powered Online Support Groups and Forums for Peer Support and Accountability
-====================================================================================================================================
 
 Peer support and accountability are essential components of recovery from addiction and negative behaviors. In this chapter, we will explore how AI-powered online support groups and forums can provide a valuable resource for individuals seeking to overcome addiction and negative behaviors.
 

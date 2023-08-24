@@ -1,5 +1,3 @@
-How AI Can Enhance Addiction Recovery and Promote Positive Behaviors
-==================================================================================
 
 Breaking bad habits, such as addiction, can be a challenging and complex process. However, with the help of technology, it is becoming easier to support individuals in their journey towards recovery. Artificial intelligence (AI) has the potential to transform addiction recovery and behavior modification by providing personalized insights and support.
 

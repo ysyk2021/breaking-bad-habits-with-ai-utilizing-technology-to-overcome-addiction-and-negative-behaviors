@@ -1,5 +1,3 @@
-AI-Powered Virtual Coaches for Motivation and Support
-==============================================================================================================================
 
 Machine learning algorithms can help develop personalized treatment plans for individuals looking to break bad habits and overcome addiction. In this chapter, we will explore how machine learning can be leveraged to create personalized treatment plans and how AI-powered virtual coaches can provide motivation and support.
 

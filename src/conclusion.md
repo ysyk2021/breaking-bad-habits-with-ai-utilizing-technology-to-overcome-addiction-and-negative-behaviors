@@ -1,4 +1,3 @@
-# Conclusion
 
 Recap of the Benefits of Using AI in Addiction Recovery and Behavior Modification
 ---------------------------------------------------------------------------------

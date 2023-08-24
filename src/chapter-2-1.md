@@ -1,5 +1,3 @@
-What Is AI and How Does It Work?
-=========================================================================================================
 
 Artificial intelligence (AI) has become increasingly popular in recent years, with applications ranging from self-driving cars to medical diagnosis. In this chapter, we will explore what AI is and how it works, particularly in the context of breaking bad habits.
 

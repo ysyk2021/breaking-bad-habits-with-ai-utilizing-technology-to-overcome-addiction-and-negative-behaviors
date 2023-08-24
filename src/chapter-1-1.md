@@ -1,5 +1,3 @@
-The Role of AI in Breaking Bad Habits
-===================================================
 
 Breaking bad habits, such as addiction and negative behaviors, is a complex and challenging process that requires support and guidance. In recent years, artificial intelligence (AI) has emerged as a powerful tool for enhancing addiction recovery and behavior modification.
 

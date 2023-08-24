@@ -1,5 +1,3 @@
-Chapter 5: Utilizing AI-Powered Support Communities
-===================================================
 
 Addiction and negative behaviors can be difficult to overcome alone. That's why it's important to seek support from others who are going through similar experiences. With the advancement of technology, AI-powered support communities have emerged as a powerful tool for individuals seeking peer support and accountability.
 

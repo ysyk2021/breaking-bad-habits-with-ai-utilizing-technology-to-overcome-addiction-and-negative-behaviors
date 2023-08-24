@@ -1,5 +1,3 @@
-Addressing Concerns About Privacy and Security When Using AI in Addiction Recovery
-================================================================================================================================================================================
 
 As the use of artificial intelligence (AI) in addiction recovery programs continues to grow, concerns about data privacy and security have also emerged. In this chapter, we will focus on addressing these concerns and ensuring that individuals' data is protected when using AI in addiction recovery.
 

@@ -1,5 +1,3 @@
-Common Applications of AI in Addiction Recovery and Behavior Modification
-==================================================================================================================================================
 
 Artificial intelligence (AI) has the potential to transform addiction recovery and behavior modification by providing personalized insights and support. In this chapter, we will explore some common applications of AI in breaking bad habits.
 

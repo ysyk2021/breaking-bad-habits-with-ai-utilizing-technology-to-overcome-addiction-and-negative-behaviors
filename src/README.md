@@ -8,3 +8,7 @@ However, the implementation of AI in addiction recovery comes with ethical consi
 Overall, this book aims to provide an overview of the benefits and challenges of using AI in addiction recovery and behavior modification. By exploring successful examples of AI integration and addressing ethical considerations, we hope to inspire continued innovation and progress in the field of addiction recovery.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

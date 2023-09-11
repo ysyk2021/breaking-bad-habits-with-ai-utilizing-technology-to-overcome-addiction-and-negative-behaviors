@@ -1,5 +1,4 @@
-Chapter 8: AI-Powered Online Support Groups and Forums for Peer Support and Accountability
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the digital age, technology has revolutionized the way we seek support and accountability when overcoming addiction and negative behaviors. In this chapter, we will explore the pivotal role of AI-powered online support groups and forums in providing a sense of community, peer support, and accountability on the path to breaking bad habits.
 

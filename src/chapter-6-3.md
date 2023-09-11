@@ -1,5 +1,4 @@
-Chapter 7: Using AI-Powered Digital Assistants for Scheduling and Medication Reminders
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Breaking bad habits and overcoming addiction often require a high level of organization and consistency. In this chapter, we will explore the benefits of using AI-powered digital assistants to help individuals schedule their daily routines and provide timely medication reminders, supporting them on their path to recovery.
 

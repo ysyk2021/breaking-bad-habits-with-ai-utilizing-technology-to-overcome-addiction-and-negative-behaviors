@@ -1,5 +1,4 @@
-Chapter 7: Implementing Machine Learning-Powered Relapse Prevention Strategies
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Relapse is a common challenge in addiction recovery, but machine learning (ML) can play a pivotal role in identifying and preventing relapse triggers. In this chapter, we explore the implementation of ML-powered relapse prevention strategies to enhance the success of addiction recovery programs.
 

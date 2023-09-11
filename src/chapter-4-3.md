@@ -1,5 +1,4 @@
-Chapter 9: Implementing Machine Learning-Powered Habit-Forming Strategies for Positive Behavior Reinforcement
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Breaking bad habits and overcoming addiction are complex processes that often require establishing new, positive behaviors. In this chapter, we will explore the innovative use of machine learning to develop habit-forming strategies that reinforce positive behaviors, facilitating lasting change.
 

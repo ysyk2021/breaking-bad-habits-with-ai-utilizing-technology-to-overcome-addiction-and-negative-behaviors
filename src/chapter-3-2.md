@@ -1,5 +1,4 @@
-Chapter 5: AI-Powered Virtual Coaches for Motivation and Support
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey to break bad habits and overcome addiction, individuals often require consistent motivation and support. AI-powered virtual coaches have emerged as a valuable tool to provide personalized assistance and guidance throughout the recovery process. This chapter explores the role of AI in creating virtual coaches that inspire, educate, and empower individuals on their path to positive behavior change.
 

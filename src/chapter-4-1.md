@@ -1,5 +1,4 @@
-Chapter 6: Using AI-Powered Tools for Self-Awareness and Mindfulness
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our quest to break free from bad habits and conquer addiction, AI-powered tools can be invaluable allies. This chapter explores the utilization of artificial intelligence for enhancing self-awareness and mindfulness through technologies like mood tracking and meditation assistance.
 

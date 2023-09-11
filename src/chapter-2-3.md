@@ -1,5 +1,4 @@
-Chapter 5: Examples of Successful Implementation of AI in Breaking Bad Habits
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To illustrate the real-world impact of AI in breaking bad habits and overcoming addiction, let's explore some notable examples of successful AI implementations. These examples showcase the versatility and effectiveness of AI technologies in supporting individuals on their journey to positive behavioral change.
 

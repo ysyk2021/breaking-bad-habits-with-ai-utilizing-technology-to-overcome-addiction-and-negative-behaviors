@@ -1,5 +1,4 @@
-Chapter 1: What is AI and How Does It Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the digital age, Artificial Intelligence (AI) has emerged as a powerful ally in the quest to overcome addiction and negative behaviors. But what exactly is AI, and how does it work? In this chapter, we will explore the fundamental concepts of AI and its mechanisms.
 

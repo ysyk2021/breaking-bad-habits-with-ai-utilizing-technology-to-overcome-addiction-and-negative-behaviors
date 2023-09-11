@@ -1,5 +1,4 @@
-Chapter 10: AI-Powered Stress Management Techniques for Coping with Triggers and Challenging Situations
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Stress is a common trigger for bad habits and addiction relapses. In this chapter, we will delve into the use of AI-powered stress management techniques to help individuals effectively cope with triggers and navigate challenging situations on their path to breaking bad habits and overcoming addiction.
 

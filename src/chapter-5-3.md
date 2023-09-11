@@ -1,5 +1,4 @@
-Chapter 8: Future Developments and Trends in AI-Powered Addiction Recovery and Behavior Modification
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The landscape of addiction recovery and behavior modification is constantly evolving, and Artificial Intelligence (AI) is poised to play a pivotal role in shaping its future. In this chapter, we explore emerging developments and trends that are likely to define the future of AI-powered solutions in these domains.
 

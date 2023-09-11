@@ -1,5 +1,4 @@
-Chapter 10: Best Practices for Integrating AI into Addiction Recovery Programs While Maintaining Ethical Standards
-==================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating Artificial Intelligence (AI) into addiction recovery programs holds immense potential for enhancing outcomes, but it also raises important ethical considerations. In this chapter, we will explore best practices for effectively integrating AI while upholding ethical standards in addiction recovery.
 

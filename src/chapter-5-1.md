@@ -1,5 +1,4 @@
-Chapter 9: Addressing Concerns About Privacy and Security When Using AI in Addiction Recovery
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of Artificial Intelligence (AI) into addiction recovery programs offers numerous benefits, but it also raises significant concerns about privacy and security. This chapter explores these concerns and provides strategies for mitigating potential risks.
 

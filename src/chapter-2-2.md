@@ -1,5 +1,4 @@
-Chapter 6: Common Applications of AI in Addiction Recovery and Behavior Modification
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of addiction recovery and behavior modification, Artificial Intelligence (AI) has found a multitude of applications to support individuals in their quest to break bad habits and overcome addiction. This chapter explores some of the most common and impactful uses of AI in this context.
 
